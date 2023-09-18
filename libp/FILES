@@ -1,0 +1,2 @@
+Makefile pascalio.h new.c caseerror.c get_arg.c clock.c exit.c get.c put.c reset.c rewrite.c getbuf.c textinput.c textoutput.c input.c output.c err.c allocator.p pc_nloc_goto.c alloc.s allocator.h data.c date.c time.c rand.c
+FILES

@@ -1,0 +1,2 @@
+Makefile upasmain.p upasinit.p upasutil.p upasuco.p upaslex.p upascase.p upasbutil.p upasstmt.p upasdecl.p upascall.p upasexpr.p upastree.p upassym.p upasfold.p upasglob.h upasmain.h upasinit.h upasutil.h upasuco.h upaslex.h upascase.h upasbutil.h upasstmt.h upasdecl.h upascall.h upasexpr.h upastree.h upassym.h upasfold.h allocator.h
+FILES
