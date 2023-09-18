@@ -34,4 +34,4 @@ Thanks to:
 
 for their help in locating this source code.
 
-![MIPS-Pascal-tape](/docs/PASCAL_V_Src.png)
+![MIPS-Pascal-tape](/docs/PASCAL_V_Src.jpg)
